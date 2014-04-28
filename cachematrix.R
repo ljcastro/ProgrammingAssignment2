@@ -1,5 +1,5 @@
 ## cachematrix.R
-## (c) Lucas J. Castro
+
 
 ## This script contains two functions to perform a inverse matrix calculation
 ## using cached values to improve the speed of the running task
